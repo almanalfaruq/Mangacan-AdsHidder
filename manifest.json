@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Mangacan AdsHidder",
+    "version": "1.0",
+    "content_scripts": [
+      {
+        "matches": [
+          "http://mangacanblog.com/*",
+          "https://mangacanblog.com/*"
+        ],
+        "js": ["jquery-3.3.1.min.js", "hidder.js"]
+      }
+    ],
+    "browser_action": {
+      "default_icon": "icon.png"
+    }
+  }
