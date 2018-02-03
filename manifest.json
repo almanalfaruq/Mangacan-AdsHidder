@@ -6,7 +6,9 @@
       {
         "matches": [
           "http://mangacanblog.com/*",
-          "https://mangacanblog.com/*"
+          "https://mangacanblog.com/*",
+          "http://www.mangacanblog.com/*",
+          "http://www.mangacanblog.com/*"
         ],
         "js": ["jquery-3.3.1.min.js", "hidder.js"]
       }
