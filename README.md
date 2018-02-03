@@ -4,7 +4,7 @@
 If you use some Ads Blocker extension for chrome but you're a manga reader in [Mangacan's site](http://mangacanblog.com) then you'll need this to get rid those modal that blocked you from reading the manga!
 
 ## How to use
-1. Download by clicking [here](https://github.com/almanalfaruq/Mangacan-AdsHidder/archive/v1.0.zip).
+1. Download by clicking [here](https://github.com/almanalfaruq/Mangacan-AdsHidder/archive/v1.1.zip).
 2. Extract that downloaded zip.
 3. Open Chrome. Copy this link `chrome://extensions/` . Paste to the chrome's address bar, press `enter`.
 4. Click the `Developer mode` on the right side of the top menu. 

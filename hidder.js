@@ -1,3 +1,3 @@
+// Get the first div, then remove it
 var divAds = $("div").first()
-console.log(divAds)
 divAds.remove()
