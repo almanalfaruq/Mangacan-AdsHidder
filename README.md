@@ -10,3 +10,6 @@ If you use some Ads Blocker extension for chrome but you're a manga reader in [M
 4. Click the `Developer mode` on the right side of the top menu. 
 5. Drag the folder that you extract to the chrome.
 6. Go to [Mangacan's site](http://mangacanblog.com) or refresh the Mangacan's page.
+
+## Note
+If you have been warned by chrome to disable your `Developer mode`, it's just a false positive. I'm just trying to help you, not to destroy your computer/laptop. 
